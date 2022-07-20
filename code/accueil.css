@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+.logo{
+    margin-top: 80px;
+}
+ul li a{
+    text-decoration: none;
+}
+ul li a href: hover {
+    background-color: aquamarine;
+}
+ul li{
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 10px;
+    padding: 10px 50px;
+    background-color: aqua;
+}
+ul{
+    list-style: none;
+}
+header{
+    display: flex;
+    margin-left: 50px;
+}
+/*Ajout du personnel*/
+#ajout{
+    margin-left: 200px;
+}
